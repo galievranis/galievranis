@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋.
+My name is Ranis. I'm currently learning Java.
 
-<!--
-**galievranis/galievranis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Contact me:**
+[Telegram](https://t.me/galievranis)
 
-Here are some ideas to get you started:
+**Leetcode:** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ranis's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=galievranis&theme=dark)](https://github.com/galievranis/leetcode-stats)
+
+**CodeWars:**
+
+[![Codewars Badge](https://www.codewars.com/users/galievranis/badges/large)](https://www.codewars.com/users/galievranis)
