@@ -1,4 +1,4 @@
-### Hi there 👋.
+### Hi there 👋
 My name is Ranis. I'm currently learning Java.
 
 **Contact me:**
