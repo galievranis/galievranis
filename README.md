@@ -7,7 +7,7 @@ My name is Ranis. I'm currently learning Java.
 
 ## Contact me:
 [Telegram](https://t.me/galievranis)
-![Схема БД для ТЗ 11.1](https://raw.githubusercontent.com/galievranis/galievranis/4be8c3e89f5bd514cb835f1ec2475858d06ee881/icons/telegram.svg)
+[![Telegram](https://raw.githubusercontent.com/galievranis/galievranis/d7dfb849514f099f818d0814a034b3219e480b60/icons/telegram.svg)](https://t.me/galievranis)
 
 
 ## Leetcode:
