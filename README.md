@@ -6,7 +6,6 @@ My name is Ranis. I'm currently learning Java.
 [![My Skills](https://skillicons.dev/icons?i=java,postgresql,spring,git,github,docker,maven,idea)](https://skillicons.dev)
 
 ## Contact me:
-[Telegram](https://t.me/galievranis)
 [![Telegram](https://raw.githubusercontent.com/galievranis/galievranis/d7dfb849514f099f818d0814a034b3219e480b60/icons/telegram.svg)](https://t.me/galievranis)
 
 
