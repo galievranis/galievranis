@@ -3,7 +3,7 @@ Hello 👋. My name is Ranis. I enjoy programming in Java. I strive to create pr
 
 ## Tools & Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=java,postgresql,spring,git,github,docker,maven,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,git,github,docker,maven,gradle,idea)](https://skillicons.dev)
 
 ## Located
 🇰🇿 Kazakhstan, Astana
